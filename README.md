@@ -1,2 +1,2 @@
 # dynamic-proxy-learning
-动态代理学习
+静态代理、动态代理（jdk、cglib）学习
